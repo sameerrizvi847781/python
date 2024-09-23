@@ -1,2 +1,2 @@
 # python
-i developed this portfolio website using python 
+this is my  first git repository
